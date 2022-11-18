@@ -6,7 +6,7 @@
 
 
 #### Список моих умений:
-* html, css, scss, адаптивная верстка, bootstrap, javascript, react, git.
+* javascript, react, html, css, scss, адаптивная верстка, bootstrap, git.
 * навыки Web-дизайна и обработки графики, Photoshop, Figma.
 * опыт работы с CMS WordPress, 1С-Битрикс, Tilda.
 * опыт работы и администрирование CRM Битрикс24.
