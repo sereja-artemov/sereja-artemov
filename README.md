@@ -13,7 +13,8 @@
 * базовая SEO оптимизация сайта.
 
 #### Контакты
-[t.me/sereja_art](https://t.me/sereja_art)
+[t.me/sereja_art](https://t.me/sereja_art)  
+[vk.com/sereja_art](https://vk.com/sereja_art)
 
 
 <!--
